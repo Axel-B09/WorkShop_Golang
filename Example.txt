@@ -1,0 +1,7 @@
+this is a example file that is filled with nocense. This paragraphe is supposed to be print in ex9.
+
+This isn't supposed to be print in ex9. So if i'm here in ex9 you did something wrong.
+
+This is a third paragraphe here for fun and having a really long world like Popipopipopipopipo, but it's just a example.
+
+The number 4, is complety useless and just here to add text. So.... How are you doing ?
